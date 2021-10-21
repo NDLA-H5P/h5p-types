@@ -1,0 +1,23 @@
+{
+  "name": "h5p-types",
+  "version": "1.0.0",
+  "description": "TypeScript type for H5P",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NDLA-H5P/h5p-types.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NDLA-H5P/h5p-types/issues"
+  },
+  "homepage": "https://github.com/NDLA-H5P/h5p-types#readme",
+  "devDependencies": {
+    "typescript": "^4.4.4"
+  }
+}
